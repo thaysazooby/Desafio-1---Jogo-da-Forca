@@ -1,0 +1,8 @@
+C:\Users\ThaysaPachecoZooby\source\repos\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\obj\Debug\DESAFIO LÓGICA 1 - [THAYSA ZOOBY].csproj.AssemblyReference.cache
+C:\Users\ThaysaPachecoZooby\source\repos\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\obj\Debug\DESAFIO LÓGICA 1 - [THAYSA ZOOBY].csproj.SuggestedBindingRedirects.cache
+C:\Users\ThaysaPachecoZooby\source\repos\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\obj\Debug\DESAFIO LÓGICA 1 - [THAYSA ZOOBY].csproj.CoreCompileInputs.cache
+C:\Users\ThaysaPachecoZooby\source\repos\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\bin\Debug\DESAFIO LÓGICA 1 - [THAYSA ZOOBY].exe.config
+C:\Users\ThaysaPachecoZooby\source\repos\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\bin\Debug\DESAFIO LÓGICA 1 - [THAYSA ZOOBY].exe
+C:\Users\ThaysaPachecoZooby\source\repos\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\bin\Debug\DESAFIO LÓGICA 1 - [THAYSA ZOOBY].pdb
+C:\Users\ThaysaPachecoZooby\source\repos\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\obj\Debug\DESAFIO LÓGICA 1 - [THAYSA ZOOBY].exe
+C:\Users\ThaysaPachecoZooby\source\repos\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\DESAFIO LÓGICA 1 - [THAYSA ZOOBY]\obj\Debug\DESAFIO LÓGICA 1 - [THAYSA ZOOBY].pdb
